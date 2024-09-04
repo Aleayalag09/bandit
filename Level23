@@ -1,0 +1,7 @@
+Long story short
+Create a tmp dir
+Create a bash script that copy the password into a file
+Create a password file
+manipulate permissions chmod +xw - chmod +rwx - chmod 777 dir - chmod 0777
+copy the bash scrip into the cronjob dir where is going to run
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8

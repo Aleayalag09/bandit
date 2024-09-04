@@ -1,0 +1,3 @@
+echo -n '0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO' | nc localhost 8888 -l &
+./suconnect 8888
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt

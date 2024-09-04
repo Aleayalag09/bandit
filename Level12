@@ -1,0 +1,5 @@
+xxd -r data.txt > data
+file data
+ mv data data.(tar,gzip,bz2,gzip2)
+(tar xvf | gzip -d | bzp2 -d | gzip2 -d ) data.(ext)
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

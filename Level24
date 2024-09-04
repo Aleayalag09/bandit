@@ -1,0 +1,4 @@
+Create a bruteforce in bash of pin 0000 to 9999 for i {0..9}{0..9}...
+Save the output in a file
+nc locahost 30002 < bruteforce.output
+iCi86ttT4KSNe1armKiwbQNmB3YJP3q4

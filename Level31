@@ -1,0 +1,7 @@
+Same as previos level
+echo May I come in > key.txt
+echo  > .gitignore
+git add .
+git commit -m 'message'
+git push
+3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
